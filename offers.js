@@ -24,8 +24,8 @@ window.YS_PROMOS = {
   label: "Advertisement",
   seconds: 6,
   items: [
-    { image: "https://example.com/ad1.jpg", link: "https://example.com/offer1", button: "Get offer",  title: "Offer one" },
-    { image: "https://example.com/ad2.jpg", link: "https://example.com/offer2", button: "Shop now",   title: "Offer two" },
-    { image: "https://example.com/ad3.jpg", link: "https://example.com/offer3", button: "Learn more", title: "Offer three" }
+    { image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtQOa5KttHGRy_L160G65FAJCcRlTyA7DeW8pqaj8OEqn2ieMiA7Z6cn_84ENmD0KZIdg9wQw-pFHhgXqqb0YK78kdmnwpHhq0k-olG6JflDZXwQmB-8CEUPMEiw3fiCJ8nNWDeNvd3FtzT-MF3DZG7PLMdzyrBgePhIdKnFttHciy24RjAJO3Ex2q4sup/s588/55182.jpg", link: "https://www.yongsocial.com/2026/10/nvidia-micron-sp500-earnings-growth-q3-2026.html", button: "Get offer",  title: "Offer one" },
+    { image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtQOa5KttHGRy_L160G65FAJCcRlTyA7DeW8pqaj8OEqn2ieMiA7Z6cn_84ENmD0KZIdg9wQw-pFHhgXqqb0YK78kdmnwpHhq0k-olG6JflDZXwQmB-8CEUPMEiw3fiCJ8nNWDeNvd3FtzT-MF3DZG7PLMdzyrBgePhIdKnFttHciy24RjAJO3Ex2q4sup/s588/55182.jpg", link: "https://www.yongsocial.com/2026/10/bitcoin-vs-ethereum-understanding-btc-and-eth.html", button: "Shop now",   title: "Offer two" },
+    { image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtQOa5KttHGRy_L160G65FAJCcRlTyA7DeW8pqaj8OEqn2ieMiA7Z6cn_84ENmD0KZIdg9wQw-pFHhgXqqb0YK78kdmnwpHhq0k-olG6JflDZXwQmB-8CEUPMEiw3fiCJ8nNWDeNvd3FtzT-MF3DZG7PLMdzyrBgePhIdKnFttHciy24RjAJO3Ex2q4sup/s588/55182.jpg", link: "https://www.yongsocial.com/2026/10/bitcoin-vs-ethereum-understanding-btc-and-eth.html", button: "Learn more", title: "Offer three" }
   ]
 };
